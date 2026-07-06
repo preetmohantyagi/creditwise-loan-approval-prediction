@@ -115,22 +115,6 @@ Models were evaluated using:
 
 ---
 
-# 📁 Project Structure
-
-```
-
-creditwise-loan-approval-prediction/
-│
-├── data/
-├── notebooks/
-│   └── creditwise_loan_prediction.ipynb
-├── images/
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-
-```
 
 ---
 
